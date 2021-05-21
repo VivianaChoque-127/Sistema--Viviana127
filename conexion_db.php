@@ -7,10 +7,10 @@ $conn = mysqli_connect(
   'root',
   '',
   'certificacion'
-); 
+);
 //prueba git
-//probar conexion 
-/*if (isset($conn)){
+//probar conexion
+if (isset($conn)){
     echo "db esta conectado";
-}*/
+}
 ?>
